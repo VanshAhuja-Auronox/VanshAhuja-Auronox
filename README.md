@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi, I'm Vansh Ahuja 👋
 
+🎓 B.Tech CSE (Health Informatics) | VIT Bhopal  
+📍 First Year Student  
+
+💡 Interested in:
+- Artificial Intelligence in Healthcare  
+- Data Science & Bioinformatics  
+- Problem Solving & Technology  
+
+🚀 Currently Learning:
+- Programming Fundamentals  
+- Digital Literacy & Online Tools  
+- Building my professional portfolio  
+
+📫 Goal:
+To build a strong career in AI-driven healthcare and data science.
 <!--
 **VanshAhuja-Auronox/VanshAhuja-Auronox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
